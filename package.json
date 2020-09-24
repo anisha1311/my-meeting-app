@@ -4,6 +4,7 @@
   "description": "Amazon Chime SDK for JavaScript",
   "main": "build/index.js",
   "types": "build/index.d.ts",
+  "start": "Amazon Chime SDK for JavaScript.js",
   "files": [
     "build"
   ],

@@ -1,7 +1,0 @@
-daysUntilStale: 7
-daysUntilClose: 14
-exemptLabels:
-  - Triaged
-staleLabel: Needs More Information
-markComment: false
-closeComment: false
