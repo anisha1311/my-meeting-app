@@ -4,7 +4,7 @@
   "description": "Amazon Chime SDK for JavaScript",
   "main": "build/index.js", 
   "types": "build/index.d.ts",
-  "start": "npm run deps && npm install && npm install aws-sdk && npm run start:fast",
+  "start": "node index.js",
   "files": [
     "build"
   ],
